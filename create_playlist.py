@@ -7,7 +7,7 @@ import googleapiclient.errors
 import requests
 import youtube_dl
 
-from exceptions import ResponseException
+from exceptions import *
 from secrets import spotify_token, spotify_user_id
 
 
